@@ -1,4 +1,4 @@
-name-> description                      No.of parts\n
+name-> description                      No.of parts
 body_d-> down part of the body              x1
 body_u-> upper part of the body             x1
 coxa_l-> left side of coxa                  x2
