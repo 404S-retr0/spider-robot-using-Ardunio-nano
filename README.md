@@ -25,7 +25,7 @@ Let's build a spider robot using Ardunio nano which is control by android app.
 <a href= "https://www.linkedin.com/in/divya-j-365b28225/">Divya J</a>
 
 ->
-<a >Karthik</a>
+<a href="https://www.linkedin.com/in/karthik-raju-84a205225/" >Karthik</a>
 
 ->
 <a href= "https://www.linkedin.com/in/anurag-de-404s-retr0/">Anurag De</a>(me)
