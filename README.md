@@ -1,6 +1,6 @@
 <h1 align="center" >Spider robot using Ardunio Nano</h1>
 <p align="center">
-   <img width="150" src="for  md file/spider-cartoon.gif">
+   <img width="480" src="for  md file/spideranim.gif">
 </p>
 Let's build a spider robot using Ardunio nano which is control by android app.
 
