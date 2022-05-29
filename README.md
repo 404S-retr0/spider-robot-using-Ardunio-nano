@@ -1,4 +1,4 @@
-<h1 align="center" >Spider robot using Ardunio Nano</h1>
+<h1 align="center" >Spider robot using Arduino Nano</h1>
 <p align="center">
    <img width="480" src="for  md file/spideranim.gif">
 </p>
